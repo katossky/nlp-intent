@@ -1,0 +1,15 @@
+---
+title: "Intent classification"
+format: html
+---
+
+## Appendices
+
+### Step 1 — Vanilla intent predictor
+
+We use RoBERTa, which has native multilingual suppor, as a benchmark.
+
+```{python}
+from transformers import
+
+```
